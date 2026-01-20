@@ -112,4 +112,4 @@ Isso ajuda a confirmar visualmente qual dígito está sendo testado.
 
 ## Vídeo Demonstrativo
 
-**Click [AQUI](https://drive.google.com/file/d/1qbE0LZri5XehVuA22vJ8YtHk1VNn_zGE/view?usp=sharing) para acessar o link do Vídeo Ensaio**
+**Clique [AQUI](https://drive.google.com/file/d/1qbE0LZri5XehVuA22vJ8YtHk1VNn_zGE/view?usp=sharing) para acessar o link do Vídeo Ensaio**
