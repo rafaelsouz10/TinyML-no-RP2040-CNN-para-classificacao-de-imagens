@@ -38,15 +38,14 @@ O fluxo completo do projeto é:
 cnn_mnist_atv
 │
 ├── cnn_mnist_atv.c              # Código principal (inferência interativa)
-├── model/
-│   └── mnist_cnn_int8.tflite    # modelo treinado
 ├── mnist_samples.h              # Imagens MNIST (0..9) em formato C
 ├── mnist_cnn_int8_model.h       # Modelo CNN quantizado (INT8)
 ├── tflm_wrapper.h               # Wrapper para TensorFlow Lite Micro
 ├── CMakeLists.txt               # Configuração de build (Pico SDK)
 ├── pico-tflmicro                # git clone https://github.com/raspberrypi/pico-tflmicro.git na raiz do projeto
 ├── README.md                    # Documentação do projeto
-│
+├── model/
+│   └── mnist_cnn_int8.tflite    # modelo treinado
 └── colab/
     └── CNN_MNIST_ATV.ipynb      # Notebook de treino e quantização (Google Colab)
 ```
