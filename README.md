@@ -42,6 +42,7 @@ cnn_mnist_atv
 ├── mnist_cnn_int8_model.h       # Modelo CNN quantizado (INT8)
 ├── tflm_wrapper.h               # Wrapper para TensorFlow Lite Micro
 ├── CMakeLists.txt               # Configuração de build (Pico SDK)
+├── pico-tflmicro                # git clone https://github.com/raspberrypi/pico-tflmicro.git na raiz do projeto
 ├── README.md                    # Documentação do projeto
 │
 └── colab/
