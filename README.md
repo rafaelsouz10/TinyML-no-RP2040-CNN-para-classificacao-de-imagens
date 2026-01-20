@@ -38,6 +38,8 @@ O fluxo completo do projeto é:
 cnn_mnist_atv
 │
 ├── cnn_mnist_atv.c              # Código principal (inferência interativa)
+├── model/
+│   └── mnist_cnn_int8.tflite    # modelo treinado
 ├── mnist_samples.h              # Imagens MNIST (0..9) em formato C
 ├── mnist_cnn_int8_model.h       # Modelo CNN quantizado (INT8)
 ├── tflm_wrapper.h               # Wrapper para TensorFlow Lite Micro
